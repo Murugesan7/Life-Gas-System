@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Life-Gas-System/static/css/main.5d0ad50a.css",
+    "main.js": "/Life-Gas-System/static/js/main.ad39ae47.js",
+    "static/js/787.61f74e33.chunk.js": "/Life-Gas-System/static/js/787.61f74e33.chunk.js",
+    "static/media/p1.jpg": "/Life-Gas-System/static/media/p1.9393d1af1e7b9512e29f.jpg",
+    "static/media/p2.jpg": "/Life-Gas-System/static/media/p2.6515f17db18719f669e3.jpg",
+    "index.html": "/Life-Gas-System/index.html",
+    "main.5d0ad50a.css.map": "/Life-Gas-System/static/css/main.5d0ad50a.css.map",
+    "main.ad39ae47.js.map": "/Life-Gas-System/static/js/main.ad39ae47.js.map",
+    "787.61f74e33.chunk.js.map": "/Life-Gas-System/static/js/787.61f74e33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d0ad50a.css",
+    "static/js/main.ad39ae47.js"
+  ]
+}
